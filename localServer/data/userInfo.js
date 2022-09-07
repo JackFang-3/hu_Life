@@ -1,0 +1,26 @@
+export default [
+    {
+        "name":"房凯军",
+        "id":20191687310119,
+        "home":"计算机与科学技术学院",
+        "major":"软件工程",
+        "phone":15991374891,
+        "images":"C:/Users/21170/Desktop/localServer/images"
+    },
+    {
+        "name":"彭统",
+        "id":20191687310105,
+        "home":"计算机与科学技术学院",
+        "major":"软件工程",
+        "phone":1387245615,
+        "images":"C:/Users/21170/Desktop/localServer/images"
+    },
+    {
+        "name":"王恒",
+        "id":20191687310124,
+        "home":"计算机与科学技术学院",
+        "major":"软件工程",
+        "phone":1683672868,
+        "images":"C:/Users/21170/Desktop/localServer/images"
+    }
+]

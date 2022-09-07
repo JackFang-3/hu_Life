@@ -1,0 +1,20 @@
+export default [
+    {
+        "time":"7:40--9:20",
+        "course":"数据挖掘",
+        "teacher":"杨厚群",
+        "classroom":"5-106"
+    },
+    {
+        "time":"14:40--16:20",
+        "course":"软件测试",
+        "teacher":"陈少凡",
+        "classroom":"5-106"
+    },
+    {
+        "time":"19:40--10:00",
+        "course":"软件体系结构与设计",
+        "teacher":"张雨",
+        "classroom":"5-106"
+    }
+]
